@@ -1,0 +1,23 @@
+{
+    "name": "TrickyDihan",
+    "short_name": "TrickyDihan",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgsJnyJet5MkH_xFkP4sqXtK8SrccwdnGjgoLKQRAkKi2cxHUXoSMa4mT9vqkzJIbvQqgL2iII011eJclQrEpdOLfJgxazI3PkmjtdaljA2PaYMvARhCd6DqLkgIhmkIAzpiHVXavYxvU-wRYr7wJjWr5_sy4v3YduikvJHDvQD40RbEMgBoB0NS0zh=s16000",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjfBrDIJqBNhUKl0c40CXR9gvjurxJoBpiOAF0pOR026T2RiRY93LY7zMuyV6-CYVHxz2nhX4YSWzUhEVCCTwSq9cJjYyVrZB8f6VqrPyzsFwjcD8Di1DmxIqMapimzJv5d-eUKVufoh1RCdEwv2o5MJK-lxXrCFrBOZ9u8FqNmQHIxsHi6WiPVinkc=s16000",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#fdd929",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.trickydihan.com/"
+}
